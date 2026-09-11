@@ -7,7 +7,7 @@
   --bg-alt: #0d1017;
   --surface: rgba(255, 255, 255, 0.035);
   --surface-strong: rgba(52, 49, 49, 0.351);
-  --navbar-bg: rgba(18, 21, 30, 0.86);
+  --navbar-bg: rgba(18, 21, 30, 0.622);
   --surface-hover: rgba(255, 255, 255, 0.09);
   --border: rgba(255, 255, 255, 0.09);
   --border-strong: rgba(5, 2, 2, 0.46);
@@ -37,7 +37,7 @@
   --bg-alt: #e6e9f0;
   --surface: rgba(255, 255, 255, 0.55);
   --surface-strong: rgba(255, 255, 255, 0.644);
-  --navbar-bg: rgba(246, 247, 251, 0.88);
+  --navbar-bg: rgba(246, 247, 251, 0.597);
   --surface-hover: rgba(255, 255, 255, 0.9);
   --border: rgba(20, 25, 45, 0.09);
   --border-strong: rgba(20, 25, 45, 0.16);
