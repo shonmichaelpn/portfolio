@@ -7,6 +7,7 @@
   --bg-alt: #0d1017;
   --surface: rgba(255, 255, 255, 0.035);
   --surface-strong: rgba(52, 49, 49, 0.351);
+  --navbar-bg: rgba(18, 21, 30, 0.86);
   --surface-hover: rgba(255, 255, 255, 0.09);
   --border: rgba(255, 255, 255, 0.09);
   --border-strong: rgba(255, 255, 255, 0.16);
@@ -35,7 +36,8 @@
   --bg: #eef0f5;
   --bg-alt: #e6e9f0;
   --surface: rgba(255, 255, 255, 0.55);
-  --surface-strong: rgba(255, 255, 255, 0.686);
+  --surface-strong: rgba(255, 255, 255, 0.644);
+  --navbar-bg: rgba(246, 247, 251, 0.88);
   --surface-hover: rgba(255, 255, 255, 0.9);
   --border: rgba(20, 25, 45, 0.09);
   --border-strong: rgba(20, 25, 45, 0.16);
@@ -315,7 +317,7 @@ header {
   margin: 0 auto;
   padding: .7rem .9rem .7rem 1.3rem;
   border-radius: 999px;
-  background: var(--surface-strong);
+  background: var(--navbar-bg);
   border: 1px solid var(--border);
   backdrop-filter: blur(22px) saturate(160%);
   -webkit-backdrop-filter: blur(22px) saturate(160%);
