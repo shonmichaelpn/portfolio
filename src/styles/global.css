@@ -10,9 +10,9 @@
   --surface-hover: rgba(255, 255, 255, 0.09);
   --border: rgba(255, 255, 255, 0.09);
   --border-strong: rgba(255, 255, 255, 0.16);
-  --text: #e9ecf5;
-  --text-secondary: #9aa3b8;
-  --text-tertiary: #6b7386;
+  --text: rgba(233, 236, 245, 0.88);
+  --text-secondary: rgba(154, 163, 184, 0.8);
+  --text-tertiary: rgba(107, 115, 134, 0.72);
   --accent-a: #7c93f5;
   --accent-b: #b48cf0;
   --accent-grad: linear-gradient(135deg, var(--accent-a), var(--accent-b));
